@@ -23,7 +23,7 @@ HostPinger is a terminal-based IP pinging tool built in Python. It allows you to
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HostPinger.git
+git clone https://github.com/vellpy/Host-Pinger.git
 cd HostPinger
 ```
 
