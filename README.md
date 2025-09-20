@@ -28,14 +28,22 @@ cd HostPinger
 ```
 
 
-Install the dependencies:
+---
+
+
+```bash
 pip install -r requirements.txt
+```
 
 
-Run the tool:
 
+Run The file
+```bash
 python host.pinger.py
+```
+
 
 Optional: Convert to a standalone Windows executable using PyInstaller:
-
+```bash
 pyinstaller --onefile host.pinger.py
+```
