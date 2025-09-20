@@ -15,7 +15,8 @@ HostPinger is a terminal-based IP pinging tool built in Python. It allows you to
 
 ---
 
-BUILT WITH [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+##  Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## Installation
 
