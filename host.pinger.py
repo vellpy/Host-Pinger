@@ -118,7 +118,7 @@ class VelPinger:
 
     def run(self):
         try:
-            if self.speed < 0.2:  # use threading for ultra-fast pinging
+            if self.speed < 0.2:  # TODO: make threading slower
                 thread = threading.Thread(target=self.ping_loop, daemon=True)
                 thread.start()
                 while True:
